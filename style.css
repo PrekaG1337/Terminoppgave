@@ -1,0 +1,207 @@
+textarea {
+    min-width: 350px;
+    position: relative;
+    height: 110px;
+
+}
+
+
+.click {
+
+    position: relative;
+    max-width: 400px;
+    background: orange;
+    text-align: center;
+    color: #fff;
+    cursor: pointer;
+    font-size: 20px;
+
+    padding: 6px;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+    border-radius: 2px;
+}
+
+.obl {
+
+    background: #1e1f26;
+
+}
+
+.zagolo {
+    max-width: 650px;
+    margin: 0 auto;
+    padding: 20px;
+    color: #fff;
+}
+
+.zagolo2 {
+    font-size: 2.8em;
+    text-transform: uppercase;
+    font-weight: 900;
+    margin-top: 15px;
+    margin-bottom: 0px;
+}
+#ClickCount {
+    color: yellow;
+    font-size:
+      120px;
+    font-weight: bold;
+    margin-top: 0px;
+    text-shadow: 1px 0 1px green,
+      0 1px 1px #000,
+      -1px 0 1px #000,
+      0 -1px 1px #000;
+
+  }
+
+
+
+  #ClickResultInfo {
+    color: #fff;
+    font-size: 26px;
+    margin-bottom: 35px;
+    font-weight: bold;
+
+  }
+
+  #ClearClicksResult,
+  #StopClicks {
+    width: 100px;
+    height: 50px;
+  }
+
+  #ClearClicksResult {
+    background: orange;
+    color: #fff;
+    font-size: 16px;
+    border: 0px solid #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    user-select: none;
+    font-weight: bold;
+
+  }
+
+  #StopClicks {
+    background: red;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    user-select: none;
+    border: 0px solid #fff;
+    border-radius: 5px;
+  }
+
+  #restartMaxScore {
+    background: green;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    user-select: none;
+    border: 0px solid #fff;
+    border-radius: 5px;
+    width: 200px;
+    height: 50px;
+  }
+
+
+
+  #ClickButton {
+
+    display: inline-block;
+    width: 45%;
+    height: 280px;
+    background: #000;
+    border-radius: 2px;
+    cursor: pointer;
+    font-size: 34px;
+    font-weight: 300;
+    color: #fff;
+    margin-right: 3px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .set-time {
+    margin-bottom: 20px;
+  }
+
+  #timerInput {
+    margin-right: 10px;
+    height: 34px;
+    font-size: 24px;
+  }
+
+  #setTimeButton {
+    width: 150px;
+    height: 40px;
+    background: linear-gradient(to bottom, #97d624 0%, #7cbc0a 100%);
+    border-radius: 0px;
+    cursor: pointer;
+    font-size: 24px;
+    font-weight: bold;
+    color: #fff;
+    position: relative;
+  }
+
+  input::-webkit-outer-spin-button,
+  input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+
+  .container {
+    width: 300px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 100px;
+    color: white;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  .form-group {
+    margin-bottom: 10px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  
+  button:hover {
+    background-color: #45a049;
+  }
+
+  .Logginn{
+    padding: 100px;
+  }
+
+
+
+  
